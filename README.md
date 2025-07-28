@@ -1,4 +1,4 @@
-[![MasterHead](https://s7.ezgif.com/tmp/ezgif-79d4c70707c433.gif)](https://youtu.be/Eh2eFk6f9zc)
+[![MasterHead](https://s4.ezgif.com/tmp/ezgif-45764db552b69f.gif)](https://youtu.be/Eh2eFk6f9zc)
 <h1 align="center">Hi 👋, I'm Aman Rai</h1>
 <h3 align="center">Just a chilled guy coding his way through life.</h3>
 
@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Unik69420&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Unik69420&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-  <img align="right" height="150" src="https://i.pinimg.com/originals/e9/3d/ff/e93dffb52bd7dc3b6a1dfc4ce9aba1a4.gif"  />
+  <img align="right" height="150" src="https://s4.ezgif.com/tmp/ezgif-40e23352777449.gif"  />
 </div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -57,3 +57,6 @@
 </p>
 
 ###
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;">
+</h3>
